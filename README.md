@@ -20,7 +20,7 @@ Langkah-langkah yang harus dilakukan antara lain:
 
 3. Eksperimen Model 
 - Bangun model **Decision Tree Classifier**, lalu latih menggunakan data training.
-- Eksperimen dapat dilakukan dengan pemilihan subset fitur atau mengatur parameter Decision Tree (seperti `max_depth`, `min_samples_split`) untuk mengetahui pengaruhnya terhadap performa model.
+- Eksperimen dapat dilakukan dengan pemilihan subset fitur atau mengatur parameter Decision Tree (seperti `max_depth`, `min_samples_split`, dan lain sebagainya) untuk mengetahui pengaruhnya terhadap performa model.
 
 4. Evaluasi Model
 - Hitung metrik evaluasi seperti Accuracy, Precision, Recall, F1-Score, serta visualisasikan Confusion Matrix.

@@ -1,14 +1,14 @@
-# Tugas 3 - Klasifikasi Credit Score dengan Decision Tree
+# Tugas 3 - Klasifikasi Pendapatan dengan Decision Tree
 
 | Nama              | NRP        |
 |-------------------|------------|
 | (nama)            | (nrp)      |
 
 ## Deskripsi Tugas
-Pada tugas ini, kita akan menggunakan **Credit Score Classification Dataset**. Dataset bisa diakses melalui link berikut:\
-🔗 https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data
+Pada tugas ini, kita akan menggunakan **Adult Census Income Dataset**. Dataset bisa diakses melalui link berikut:\
+🔗 https://www.kaggle.com/datasets/uciml/adult-census-income/data
 
-Tujuan utama dari tugas ini adalah membangun model **Decision Tree** untuk memprediksi kategori *Credit Score* (misalnya: Good, Standard, Poor) berdasarkan fitur keuangan dan demografis.
+Tujuan utama dari tugas ini adalah membangun model **Decision Tree** untuk memprediksi apakah pendapatan seseorang lebih dari $50K per tahun berdasarkan fitur demografis dan pekerjaan.
 
 Langkah-langkah yang harus dilakukan antara lain:
 
@@ -29,4 +29,4 @@ Langkah-langkah yang harus dilakukan antara lain:
 5. Analisis & Kesimpulan
 - Membandingkan performa antar eksperimen parameter maupun fitur.
 - Menentukan kombinasi parameter & fitur terbaik.
-- Menarik kesimpulan mengenai fitur apa yang paling berpengaruh dalam memprediksi *Credit Score* serta seberapa baik Decision Tree bekerja pada dataset ini.
+- Menarik kesimpulan mengenai fitur apa yang paling berpengaruh dalam memprediksi pendapatan serta seberapa baik Decision Tree bekerja pada dataset ini.
